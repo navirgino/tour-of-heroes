@@ -1,0 +1,6 @@
+li {
+    border-style: ridge;
+    border-radius: 25px;
+    list-style: none;
+    margin: 0 0 10px 0;
+}
